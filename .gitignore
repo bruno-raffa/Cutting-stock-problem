@@ -9,3 +9,9 @@ node_modules
 
 # Ignora i file SASS di configurazione
 .sass-cache
+
+# Exclude pattern_generator.py file
+pattern_generator.py
+
+# Exclude model_builder.py file
+model_builder.py
